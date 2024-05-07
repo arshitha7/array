@@ -20,7 +20,7 @@ Register number: 212223240015
 
  
  ## PROGRAM
- ### Program 1(Armstrong Number):
+ ### Program 1(Print elements of matrix):
  ```
 #include<stdio.h>
 int main()
@@ -42,7 +42,7 @@ int main()
     
 }
 ```
-### Program 2(Strong Numbers):
+### Program 2(Print only even numbers):
 ```
 #include <stdio.h>
 int main()
